@@ -6,7 +6,7 @@ programa
 		inteiro km, dias
 		real preco_carro, preco_km
 
-		escreva("Quanotos km vc percorreu com o carro?? ")
+		escreva("Quantos km vc percorreu com o carro?? ")
 		leia(km)
 
 		escreva("E quantos dias vc alugou o carro?? ")
