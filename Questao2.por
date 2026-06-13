@@ -4,10 +4,10 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro A, B, C, Del, X1, X2
+		  inteiro A, B, C, Del, X1, X2
 
-		escreva("Informe o valor de A : ")
-		leia(A)
+		  escreva("Informe o valor de A : ")
+		  leia(A)
 
           escreva("Informe o valor de B : ")
           leia(B)
